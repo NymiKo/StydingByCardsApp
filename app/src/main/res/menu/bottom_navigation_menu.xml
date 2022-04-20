@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cardsListFragment"
+        android:icon="@drawable/ic_list_of_cards"
+        android:title="@string/list_of_cards" />
+    <item
+        android:id="@+id/questionCardsFragment"
+        android:icon="@drawable/ic_training_cards"
+        android:title="@string/training_on_the_cards" />
+</menu>
